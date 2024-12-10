@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hello Chat 😎
+### we do a little bit of coding every once in a while 😎😎😎😎
 
+# My Movie Style
 <!--
 **fuzzy-replex/fuzzy-replex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
